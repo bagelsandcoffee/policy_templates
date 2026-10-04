@@ -275,7 +275,7 @@
     "Instant_Access_Snapshots_LRS": {
       "currencyCode": "USD",
       "sku": "Instant Access Snapshots LRS",
-      "pricePerUnit": 0.0,
+      "pricePerUnit": 0.000238,
       "unitOfMeasure": "1 GB/Hour",
       "productName": "Ultra Disks"
     },
@@ -592,7 +592,7 @@
     "Instant_Access_Snapshots_LRS": {
       "currencyCode": "USD",
       "sku": "Instant Access Snapshots LRS",
-      "pricePerUnit": 0.0,
+      "pricePerUnit": 0.000238,
       "unitOfMeasure": "1 GB/Hour",
       "productName": "Ultra Disks"
     },
@@ -1007,7 +1007,7 @@
     "Instant_Access_Snapshots_LRS": {
       "currencyCode": "USD",
       "sku": "Instant Access Snapshots LRS",
-      "pricePerUnit": 0.0,
+      "pricePerUnit": 0.58,
       "unitOfMeasure": "1 TB",
       "productName": "Ultra Disks"
     },
@@ -1443,7 +1443,7 @@
     "Instant_Access_Snapshots_LRS": {
       "currencyCode": "USD",
       "sku": "Instant Access Snapshots LRS",
-      "pricePerUnit": 0.0,
+      "pricePerUnit": 0.56,
       "unitOfMeasure": "1 TB",
       "productName": "Azure Premium SSD v2"
     },
@@ -1830,7 +1830,7 @@
     "Instant_Access_Snapshots_LRS": {
       "currencyCode": "USD",
       "sku": "Instant Access Snapshots LRS",
-      "pricePerUnit": 0.0,
+      "pricePerUnit": 0.000213,
       "unitOfMeasure": "1 GB/Hour",
       "productName": "Ultra Disks"
     },
@@ -2343,7 +2343,7 @@
     "Instant_Access_Snapshots_LRS": {
       "currencyCode": "USD",
       "sku": "Instant Access Snapshots LRS",
-      "pricePerUnit": 0.0,
+      "pricePerUnit": 0.52,
       "unitOfMeasure": "1 TB",
       "productName": "Azure Premium SSD v2"
     },
@@ -2856,7 +2856,7 @@
     "Instant_Access_Snapshots_LRS": {
       "currencyCode": "USD",
       "sku": "Instant Access Snapshots LRS",
-      "pricePerUnit": 0.0,
+      "pricePerUnit": 0.8,
       "unitOfMeasure": "1 TB",
       "productName": "Azure Premium SSD v2"
     },
@@ -3292,7 +3292,7 @@
     "Instant_Access_Snapshots_LRS": {
       "currencyCode": "USD",
       "sku": "Instant Access Snapshots LRS",
-      "pricePerUnit": 0.0,
+      "pricePerUnit": 0.92,
       "unitOfMeasure": "1 TB",
       "productName": "Ultra Disks"
     },
@@ -3707,7 +3707,7 @@
     "Instant_Access_Snapshots_LRS": {
       "currencyCode": "USD",
       "sku": "Instant Access Snapshots LRS",
-      "pricePerUnit": 0.0,
+      "pricePerUnit": 0.000121,
       "unitOfMeasure": "1 GB/Hour",
       "productName": "Azure Premium SSD v2"
     },
@@ -4143,7 +4143,7 @@
     "Instant_Access_Snapshots_LRS": {
       "currencyCode": "USD",
       "sku": "Instant Access Snapshots LRS",
-      "pricePerUnit": 0.0,
+      "pricePerUnit": 0.000197,
       "unitOfMeasure": "1 GB/Hour",
       "productName": "Ultra Disks"
     },
@@ -4558,7 +4558,7 @@
     "Instant_Access_Snapshots_LRS": {
       "currencyCode": "USD",
       "sku": "Instant Access Snapshots LRS",
-      "pricePerUnit": 0.0,
+      "pricePerUnit": 0.56,
       "unitOfMeasure": "1 TB",
       "productName": "Ultra Disks"
     },
@@ -5092,7 +5092,7 @@
     "Instant_Access_Snapshots_LRS": {
       "currencyCode": "USD",
       "sku": "Instant Access Snapshots LRS",
-      "pricePerUnit": 0.0,
+      "pricePerUnit": 0.000172,
       "unitOfMeasure": "1 GB/Hour",
       "productName": "Ultra Disks"
     },
@@ -5626,7 +5626,7 @@
     "Instant_Access_Snapshots_LRS": {
       "currencyCode": "USD",
       "sku": "Instant Access Snapshots LRS",
-      "pricePerUnit": 0.0,
+      "pricePerUnit": 0.000153,
       "unitOfMeasure": "1 GB/Hour",
       "productName": "Azure Premium SSD v2"
     },
@@ -5904,584 +5904,6 @@
       "productName": "Standard HDD Managed Disks"
     }
   },
-  "deloscloudgermanycentral": {
-    "Confidential_Compute_Encryption_LRS": {
-      "currencyCode": "USD",
-      "sku": "Confidential Compute Encryption LRS",
-      "pricePerUnit": 0.000158,
-      "unitOfMeasure": "1 GiB/Hour",
-      "productName": "Azure Premium SSD v2"
-    },
-    "E1_LRS": {
-      "currencyCode": "USD",
-      "sku": "E1 LRS",
-      "pricePerUnit": 0.33,
-      "unitOfMeasure": "1/Month",
-      "productName": "Standard SSD Managed Disks"
-    },
-    "E2_LRS": {
-      "currencyCode": "USD",
-      "sku": "E2 LRS",
-      "pricePerUnit": 0.66,
-      "unitOfMeasure": "1/Month",
-      "productName": "Standard SSD Managed Disks"
-    },
-    "E3_LRS": {
-      "currencyCode": "USD",
-      "sku": "E3 LRS",
-      "pricePerUnit": 1.32,
-      "unitOfMeasure": "1/Month",
-      "productName": "Standard SSD Managed Disks"
-    },
-    "E4_LRS": {
-      "currencyCode": "USD",
-      "sku": "E4 LRS",
-      "pricePerUnit": 2.64,
-      "unitOfMeasure": "1/Month",
-      "productName": "Standard SSD Managed Disks"
-    },
-    "E6_LRS": {
-      "currencyCode": "USD",
-      "sku": "E6 LRS",
-      "pricePerUnit": 5.28,
-      "unitOfMeasure": "1/Month",
-      "productName": "Standard SSD Managed Disks"
-    },
-    "E10_LRS": {
-      "currencyCode": "USD",
-      "sku": "E10 LRS",
-      "pricePerUnit": 10.56,
-      "unitOfMeasure": "1/Month",
-      "productName": "Standard SSD Managed Disks"
-    },
-    "E15_LRS": {
-      "currencyCode": "USD",
-      "sku": "E15 LRS",
-      "pricePerUnit": 21.12,
-      "unitOfMeasure": "1/Month",
-      "productName": "Standard SSD Managed Disks"
-    },
-    "E20_LRS": {
-      "currencyCode": "USD",
-      "sku": "E20 LRS",
-      "pricePerUnit": 42.24,
-      "unitOfMeasure": "1/Month",
-      "productName": "Standard SSD Managed Disks"
-    },
-    "E30_LRS": {
-      "currencyCode": "USD",
-      "sku": "E30 LRS",
-      "pricePerUnit": 84.48,
-      "unitOfMeasure": "1/Month",
-      "productName": "Standard SSD Managed Disks"
-    },
-    "E40_LRS": {
-      "currencyCode": "USD",
-      "sku": "E40 LRS",
-      "pricePerUnit": 168.96,
-      "unitOfMeasure": "1/Month",
-      "productName": "Standard SSD Managed Disks"
-    },
-    "E50_LRS": {
-      "currencyCode": "USD",
-      "sku": "E50 LRS",
-      "pricePerUnit": 337.92,
-      "unitOfMeasure": "1/Month",
-      "productName": "Standard SSD Managed Disks"
-    },
-    "E60_LRS": {
-      "currencyCode": "USD",
-      "sku": "E60 LRS",
-      "pricePerUnit": 675.84,
-      "unitOfMeasure": "1/Month",
-      "productName": "Standard SSD Managed Disks"
-    },
-    "E70_LRS": {
-      "currencyCode": "USD",
-      "sku": "E70 LRS",
-      "pricePerUnit": 1351.68,
-      "unitOfMeasure": "1/Month",
-      "productName": "Standard SSD Managed Disks"
-    },
-    "E80_LRS": {
-      "currencyCode": "USD",
-      "sku": "E80 LRS",
-      "pricePerUnit": 2703.36,
-      "unitOfMeasure": "1/Month",
-      "productName": "Standard SSD Managed Disks"
-    },
-    "Instant_Access_Snapshots_LRS": {
-      "currencyCode": "USD",
-      "sku": "Instant Access Snapshots LRS",
-      "pricePerUnit": 0.0,
-      "unitOfMeasure": "1 GB/Hour",
-      "productName": "Azure Premium SSD v2"
-    },
-    "P1_LRS": {
-      "currencyCode": "USD",
-      "sku": "P1 LRS",
-      "pricePerUnit": 0.858,
-      "unitOfMeasure": "1/Month",
-      "productName": "Premium SSD Managed Disks"
-    },
-    "P2_LRS": {
-      "currencyCode": "USD",
-      "sku": "P2 LRS",
-      "pricePerUnit": 1.716,
-      "unitOfMeasure": "1/Month",
-      "productName": "Premium SSD Managed Disks"
-    },
-    "P3_LRS": {
-      "currencyCode": "USD",
-      "sku": "P3 LRS",
-      "pricePerUnit": 3.432,
-      "unitOfMeasure": "1/Month",
-      "productName": "Premium SSD Managed Disks"
-    },
-    "P4_LRS": {
-      "currencyCode": "USD",
-      "sku": "P4 LRS",
-      "pricePerUnit": 6.3877,
-      "unitOfMeasure": "1/Month",
-      "productName": "Premium SSD Managed Disks"
-    },
-    "P6_LRS": {
-      "currencyCode": "USD",
-      "sku": "P6 LRS",
-      "pricePerUnit": 12.3497,
-      "unitOfMeasure": "1/Month",
-      "productName": "Premium SSD Managed Disks"
-    },
-    "P10_LRS": {
-      "currencyCode": "USD",
-      "sku": "P10 LRS",
-      "pricePerUnit": 23.848,
-      "unitOfMeasure": "1/Month",
-      "productName": "Premium SSD Managed Disks"
-    },
-    "P15_LRS": {
-      "currencyCode": "USD",
-      "sku": "P15 LRS",
-      "pricePerUnit": 45.9921,
-      "unitOfMeasure": "1/Month",
-      "productName": "Premium SSD Managed Disks"
-    },
-    "P20_LRS": {
-      "currencyCode": "USD",
-      "sku": "P20 LRS",
-      "pricePerUnit": 88.594,
-      "unitOfMeasure": "1/Month",
-      "productName": "Premium SSD Managed Disks"
-    },
-    "P30_LRS": {
-      "currencyCode": "USD",
-      "sku": "P30 LRS",
-      "pricePerUnit": 163.548,
-      "unitOfMeasure": "1/Month",
-      "productName": "Premium SSD Managed Disks"
-    },
-    "P40_LRS": {
-      "currencyCode": "USD",
-      "sku": "P40 LRS",
-      "pricePerUnit": 313.434,
-      "unitOfMeasure": "1/Month",
-      "productName": "Premium SSD Managed Disks"
-    },
-    "P50_LRS": {
-      "currencyCode": "USD",
-      "sku": "P50 LRS",
-      "pricePerUnit": 599.61,
-      "unitOfMeasure": "1/Month",
-      "productName": "Premium SSD Managed Disks"
-    },
-    "P60_LRS": {
-      "currencyCode": "USD",
-      "sku": "P60 LRS",
-      "pricePerUnit": 1144.704,
-      "unitOfMeasure": "1/Month",
-      "productName": "Premium SSD Managed Disks"
-    },
-    "P70_LRS": {
-      "currencyCode": "USD",
-      "sku": "P70 LRS",
-      "pricePerUnit": 2180.387,
-      "unitOfMeasure": "1/Month",
-      "productName": "Premium SSD Managed Disks"
-    },
-    "P80_LRS": {
-      "currencyCode": "USD",
-      "sku": "P80 LRS",
-      "pricePerUnit": 4360.774,
-      "unitOfMeasure": "1/Month",
-      "productName": "Premium SSD Managed Disks"
-    },
-    "S4_LRS": {
-      "currencyCode": "USD",
-      "sku": "S4 LRS",
-      "pricePerUnit": 1.6896,
-      "unitOfMeasure": "1/Month",
-      "productName": "Standard HDD Managed Disks"
-    },
-    "S6_LRS": {
-      "currencyCode": "USD",
-      "sku": "S6 LRS",
-      "pricePerUnit": 3.3088,
-      "unitOfMeasure": "1/Month",
-      "productName": "Standard HDD Managed Disks"
-    },
-    "S10_LRS": {
-      "currencyCode": "USD",
-      "sku": "S10 LRS",
-      "pricePerUnit": 6.4768,
-      "unitOfMeasure": "1/Month",
-      "productName": "Standard HDD Managed Disks"
-    },
-    "S15_LRS": {
-      "currencyCode": "USD",
-      "sku": "S15 LRS",
-      "pricePerUnit": 12.4608,
-      "unitOfMeasure": "1/Month",
-      "productName": "Standard HDD Managed Disks"
-    },
-    "S20_LRS": {
-      "currencyCode": "USD",
-      "sku": "S20 LRS",
-      "pricePerUnit": 23.936,
-      "unitOfMeasure": "1/Month",
-      "productName": "Standard HDD Managed Disks"
-    },
-    "S30_LRS": {
-      "currencyCode": "USD",
-      "sku": "S30 LRS",
-      "pricePerUnit": 45.056,
-      "unitOfMeasure": "1/Month",
-      "productName": "Standard HDD Managed Disks"
-    },
-    "S40_LRS": {
-      "currencyCode": "USD",
-      "sku": "S40 LRS",
-      "pricePerUnit": 90.112,
-      "unitOfMeasure": "1/Month",
-      "productName": "Standard HDD Managed Disks"
-    },
-    "S50_LRS": {
-      "currencyCode": "USD",
-      "sku": "S50 LRS",
-      "pricePerUnit": 180.224,
-      "unitOfMeasure": "1/Month",
-      "productName": "Standard HDD Managed Disks"
-    },
-    "S60_LRS": {
-      "currencyCode": "USD",
-      "sku": "S60 LRS",
-      "pricePerUnit": 346.0248,
-      "unitOfMeasure": "1/Month",
-      "productName": "Standard HDD Managed Disks"
-    },
-    "S70_LRS": {
-      "currencyCode": "USD",
-      "sku": "S70 LRS",
-      "pricePerUnit": 648.8064,
-      "unitOfMeasure": "1/Month",
-      "productName": "Standard HDD Managed Disks"
-    },
-    "S80_LRS": {
-      "currencyCode": "USD",
-      "sku": "S80 LRS",
-      "pricePerUnit": 1258.686,
-      "unitOfMeasure": "1/Month",
-      "productName": "Standard HDD Managed Disks"
-    }
-  },
-  "deloscloudgermanynorth": {
-    "Confidential_Compute_Encryption_LRS": {
-      "currencyCode": "USD",
-      "sku": "Confidential Compute Encryption LRS",
-      "pricePerUnit": 0.000158,
-      "unitOfMeasure": "1 GiB/Hour",
-      "productName": "Azure Premium SSD v2"
-    },
-    "E1_LRS": {
-      "currencyCode": "USD",
-      "sku": "E1 LRS",
-      "pricePerUnit": 0.33,
-      "unitOfMeasure": "1/Month",
-      "productName": "Standard SSD Managed Disks"
-    },
-    "E2_LRS": {
-      "currencyCode": "USD",
-      "sku": "E2 LRS",
-      "pricePerUnit": 0.66,
-      "unitOfMeasure": "1/Month",
-      "productName": "Standard SSD Managed Disks"
-    },
-    "E3_LRS": {
-      "currencyCode": "USD",
-      "sku": "E3 LRS",
-      "pricePerUnit": 1.32,
-      "unitOfMeasure": "1/Month",
-      "productName": "Standard SSD Managed Disks"
-    },
-    "E4_LRS": {
-      "currencyCode": "USD",
-      "sku": "E4 LRS",
-      "pricePerUnit": 2.64,
-      "unitOfMeasure": "1/Month",
-      "productName": "Standard SSD Managed Disks"
-    },
-    "E6_LRS": {
-      "currencyCode": "USD",
-      "sku": "E6 LRS",
-      "pricePerUnit": 5.28,
-      "unitOfMeasure": "1/Month",
-      "productName": "Standard SSD Managed Disks"
-    },
-    "E10_LRS": {
-      "currencyCode": "USD",
-      "sku": "E10 LRS",
-      "pricePerUnit": 10.56,
-      "unitOfMeasure": "1/Month",
-      "productName": "Standard SSD Managed Disks"
-    },
-    "E15_LRS": {
-      "currencyCode": "USD",
-      "sku": "E15 LRS",
-      "pricePerUnit": 21.12,
-      "unitOfMeasure": "1/Month",
-      "productName": "Standard SSD Managed Disks"
-    },
-    "E20_LRS": {
-      "currencyCode": "USD",
-      "sku": "E20 LRS",
-      "pricePerUnit": 42.24,
-      "unitOfMeasure": "1/Month",
-      "productName": "Standard SSD Managed Disks"
-    },
-    "E30_LRS": {
-      "currencyCode": "USD",
-      "sku": "E30 LRS",
-      "pricePerUnit": 84.48,
-      "unitOfMeasure": "1/Month",
-      "productName": "Standard SSD Managed Disks"
-    },
-    "E40_LRS": {
-      "currencyCode": "USD",
-      "sku": "E40 LRS",
-      "pricePerUnit": 168.96,
-      "unitOfMeasure": "1/Month",
-      "productName": "Standard SSD Managed Disks"
-    },
-    "E50_LRS": {
-      "currencyCode": "USD",
-      "sku": "E50 LRS",
-      "pricePerUnit": 337.92,
-      "unitOfMeasure": "1/Month",
-      "productName": "Standard SSD Managed Disks"
-    },
-    "E60_LRS": {
-      "currencyCode": "USD",
-      "sku": "E60 LRS",
-      "pricePerUnit": 675.84,
-      "unitOfMeasure": "1/Month",
-      "productName": "Standard SSD Managed Disks"
-    },
-    "E70_LRS": {
-      "currencyCode": "USD",
-      "sku": "E70 LRS",
-      "pricePerUnit": 1351.68,
-      "unitOfMeasure": "1/Month",
-      "productName": "Standard SSD Managed Disks"
-    },
-    "E80_LRS": {
-      "currencyCode": "USD",
-      "sku": "E80 LRS",
-      "pricePerUnit": 2703.36,
-      "unitOfMeasure": "1/Month",
-      "productName": "Standard SSD Managed Disks"
-    },
-    "Instant_Access_Snapshots_LRS": {
-      "currencyCode": "USD",
-      "sku": "Instant Access Snapshots LRS",
-      "pricePerUnit": 0.0,
-      "unitOfMeasure": "1 GB/Hour",
-      "productName": "Azure Premium SSD v2"
-    },
-    "P1_LRS": {
-      "currencyCode": "USD",
-      "sku": "P1 LRS",
-      "pricePerUnit": 0.858,
-      "unitOfMeasure": "1/Month",
-      "productName": "Premium SSD Managed Disks"
-    },
-    "P2_LRS": {
-      "currencyCode": "USD",
-      "sku": "P2 LRS",
-      "pricePerUnit": 1.716,
-      "unitOfMeasure": "1/Month",
-      "productName": "Premium SSD Managed Disks"
-    },
-    "P3_LRS": {
-      "currencyCode": "USD",
-      "sku": "P3 LRS",
-      "pricePerUnit": 3.432,
-      "unitOfMeasure": "1/Month",
-      "productName": "Premium SSD Managed Disks"
-    },
-    "P4_LRS": {
-      "currencyCode": "USD",
-      "sku": "P4 LRS",
-      "pricePerUnit": 6.3877,
-      "unitOfMeasure": "1/Month",
-      "productName": "Premium SSD Managed Disks"
-    },
-    "P6_LRS": {
-      "currencyCode": "USD",
-      "sku": "P6 LRS",
-      "pricePerUnit": 12.3497,
-      "unitOfMeasure": "1/Month",
-      "productName": "Premium SSD Managed Disks"
-    },
-    "P10_LRS": {
-      "currencyCode": "USD",
-      "sku": "P10 LRS",
-      "pricePerUnit": 23.848,
-      "unitOfMeasure": "1/Month",
-      "productName": "Premium SSD Managed Disks"
-    },
-    "P15_LRS": {
-      "currencyCode": "USD",
-      "sku": "P15 LRS",
-      "pricePerUnit": 45.9921,
-      "unitOfMeasure": "1/Month",
-      "productName": "Premium SSD Managed Disks"
-    },
-    "P20_LRS": {
-      "currencyCode": "USD",
-      "sku": "P20 LRS",
-      "pricePerUnit": 88.594,
-      "unitOfMeasure": "1/Month",
-      "productName": "Premium SSD Managed Disks"
-    },
-    "P30_LRS": {
-      "currencyCode": "USD",
-      "sku": "P30 LRS",
-      "pricePerUnit": 163.548,
-      "unitOfMeasure": "1/Month",
-      "productName": "Premium SSD Managed Disks"
-    },
-    "P40_LRS": {
-      "currencyCode": "USD",
-      "sku": "P40 LRS",
-      "pricePerUnit": 313.434,
-      "unitOfMeasure": "1/Month",
-      "productName": "Premium SSD Managed Disks"
-    },
-    "P50_LRS": {
-      "currencyCode": "USD",
-      "sku": "P50 LRS",
-      "pricePerUnit": 599.61,
-      "unitOfMeasure": "1/Month",
-      "productName": "Premium SSD Managed Disks"
-    },
-    "P60_LRS": {
-      "currencyCode": "USD",
-      "sku": "P60 LRS",
-      "pricePerUnit": 1144.704,
-      "unitOfMeasure": "1/Month",
-      "productName": "Premium SSD Managed Disks"
-    },
-    "P70_LRS": {
-      "currencyCode": "USD",
-      "sku": "P70 LRS",
-      "pricePerUnit": 2180.387,
-      "unitOfMeasure": "1/Month",
-      "productName": "Premium SSD Managed Disks"
-    },
-    "P80_LRS": {
-      "currencyCode": "USD",
-      "sku": "P80 LRS",
-      "pricePerUnit": 4360.774,
-      "unitOfMeasure": "1/Month",
-      "productName": "Premium SSD Managed Disks"
-    },
-    "S4_LRS": {
-      "currencyCode": "USD",
-      "sku": "S4 LRS",
-      "pricePerUnit": 1.6896,
-      "unitOfMeasure": "1/Month",
-      "productName": "Standard HDD Managed Disks"
-    },
-    "S6_LRS": {
-      "currencyCode": "USD",
-      "sku": "S6 LRS",
-      "pricePerUnit": 3.3088,
-      "unitOfMeasure": "1/Month",
-      "productName": "Standard HDD Managed Disks"
-    },
-    "S10_LRS": {
-      "currencyCode": "USD",
-      "sku": "S10 LRS",
-      "pricePerUnit": 6.4768,
-      "unitOfMeasure": "1/Month",
-      "productName": "Standard HDD Managed Disks"
-    },
-    "S15_LRS": {
-      "currencyCode": "USD",
-      "sku": "S15 LRS",
-      "pricePerUnit": 12.4608,
-      "unitOfMeasure": "1/Month",
-      "productName": "Standard HDD Managed Disks"
-    },
-    "S20_LRS": {
-      "currencyCode": "USD",
-      "sku": "S20 LRS",
-      "pricePerUnit": 23.936,
-      "unitOfMeasure": "1/Month",
-      "productName": "Standard HDD Managed Disks"
-    },
-    "S30_LRS": {
-      "currencyCode": "USD",
-      "sku": "S30 LRS",
-      "pricePerUnit": 45.056,
-      "unitOfMeasure": "1/Month",
-      "productName": "Standard HDD Managed Disks"
-    },
-    "S40_LRS": {
-      "currencyCode": "USD",
-      "sku": "S40 LRS",
-      "pricePerUnit": 90.112,
-      "unitOfMeasure": "1/Month",
-      "productName": "Standard HDD Managed Disks"
-    },
-    "S50_LRS": {
-      "currencyCode": "USD",
-      "sku": "S50 LRS",
-      "pricePerUnit": 180.224,
-      "unitOfMeasure": "1/Month",
-      "productName": "Standard HDD Managed Disks"
-    },
-    "S60_LRS": {
-      "currencyCode": "USD",
-      "sku": "S60 LRS",
-      "pricePerUnit": 346.0248,
-      "unitOfMeasure": "1/Month",
-      "productName": "Standard HDD Managed Disks"
-    },
-    "S70_LRS": {
-      "currencyCode": "USD",
-      "sku": "S70 LRS",
-      "pricePerUnit": 648.8064,
-      "unitOfMeasure": "1/Month",
-      "productName": "Standard HDD Managed Disks"
-    },
-    "S80_LRS": {
-      "currencyCode": "USD",
-      "sku": "S80 LRS",
-      "pricePerUnit": 1258.686,
-      "unitOfMeasure": "1/Month",
-      "productName": "Standard HDD Managed Disks"
-    }
-  },
   "denmarkeast": {
     "Confidential_Compute_Encryption_LRS": {
       "currencyCode": "USD",
@@ -6689,7 +6111,7 @@
     "Instant_Access_Snapshots_LRS": {
       "currencyCode": "USD",
       "sku": "Instant Access Snapshots LRS",
-      "pricePerUnit": 0.0,
+      "pricePerUnit": 0.000213,
       "unitOfMeasure": "1 GB/Hour",
       "productName": "Ultra Disks"
     },
@@ -7202,7 +6624,7 @@
     "Instant_Access_Snapshots_LRS": {
       "currencyCode": "USD",
       "sku": "Instant Access Snapshots LRS",
-      "pricePerUnit": 0.0,
+      "pricePerUnit": 0.62,
       "unitOfMeasure": "1 TB",
       "productName": "Ultra Disks"
     },
@@ -7736,7 +7158,7 @@
     "Instant_Access_Snapshots_LRS": {
       "currencyCode": "USD",
       "sku": "Instant Access Snapshots LRS",
-      "pricePerUnit": 0.0,
+      "pricePerUnit": 0.4,
       "unitOfMeasure": "1 TB",
       "productName": "Ultra Disks"
     },
@@ -8270,7 +7692,7 @@
     "Instant_Access_Snapshots_LRS": {
       "currencyCode": "USD",
       "sku": "Instant Access Snapshots LRS",
-      "pricePerUnit": 0.0,
+      "pricePerUnit": 0.4,
       "unitOfMeasure": "1 TB",
       "productName": "Azure Premium SSD v2"
     },
@@ -8804,7 +8226,7 @@
     "Instant_Access_Snapshots_LRS": {
       "currencyCode": "USD",
       "sku": "Instant Access Snapshots LRS",
-      "pricePerUnit": 0.0,
+      "pricePerUnit": 0.000205,
       "unitOfMeasure": "1 GB/Hour",
       "productName": "Ultra Disks"
     },
@@ -9515,7 +8937,7 @@
     "Instant_Access_Snapshots_LRS": {
       "currencyCode": "USD",
       "sku": "Instant Access Snapshots LRS",
-      "pricePerUnit": 0.0,
+      "pricePerUnit": 0.000277,
       "unitOfMeasure": "1 GB/Hour",
       "productName": "Ultra Disks"
     },
@@ -9930,7 +9352,7 @@
     "Instant_Access_Snapshots_LRS": {
       "currencyCode": "USD",
       "sku": "Instant Access Snapshots LRS",
-      "pricePerUnit": 0.0,
+      "pricePerUnit": 0.00013,
       "unitOfMeasure": "1 GB/Hour",
       "productName": "Azure Premium SSD v2"
     },
@@ -10258,6 +9680,13 @@
     }
   },
   "indiasouthcentral": {
+    "Confidential_Compute_Encryption_LRS": {
+      "currencyCode": "USD",
+      "sku": "Confidential Compute Encryption LRS",
+      "pricePerUnit": 0.000155,
+      "unitOfMeasure": "1 GiB/Hour",
+      "productName": "Azure Premium SSD v2"
+    },
     "E1_LRS": {
       "currencyCode": "USD",
       "sku": "E1 LRS",
@@ -10453,6 +9882,13 @@
       "pricePerUnit": 4055.04,
       "unitOfMeasure": "1/Month",
       "productName": "Standard SSD Managed Disks"
+    },
+    "Instant_Access_Snapshots_LRS": {
+      "currencyCode": "USD",
+      "sku": "Instant Access Snapshots LRS",
+      "pricePerUnit": 0.56,
+      "unitOfMeasure": "1 TB",
+      "productName": "Ultra Disks"
     },
     "P1_LRS": {
       "currencyCode": "USD",
@@ -10726,6 +10162,34 @@
       "pricePerUnit": 1441.79,
       "unitOfMeasure": "1/Month",
       "productName": "Standard HDD Managed Disks"
+    },
+    "ULTRA_LRS_PROVISIONED_CAPACITY": {
+      "currencyCode": "USD",
+      "sku": "Ultra LRS",
+      "pricePerUnit": 0.00023,
+      "unitOfMeasure": "1 GiB/Hour",
+      "productName": "Ultra Disks"
+    },
+    "ULTRA_LRS_PROVISIONED_IOPS": {
+      "currencyCode": "USD",
+      "sku": "Ultra LRS",
+      "pricePerUnit": 9.5e-05,
+      "unitOfMeasure": "1/Hour",
+      "productName": "Ultra Disks"
+    },
+    "ULTRA_LRS_PROVISIONED_THROUGHPUT_MBPS": {
+      "currencyCode": "USD",
+      "sku": "Ultra LRS",
+      "pricePerUnit": 0.000671,
+      "unitOfMeasure": "1/Hour",
+      "productName": "Ultra Disks"
+    },
+    "ULTRA_LRS_RESERVATION_PER_VCPU_PROVISIONED": {
+      "currencyCode": "USD",
+      "sku": "Ultra LRS",
+      "pricePerUnit": 0.0084,
+      "unitOfMeasure": "1/Hour",
+      "productName": "Ultra Disks"
     }
   },
   "indonesiacentral": {
@@ -10935,7 +10399,7 @@
     "Instant_Access_Snapshots_LRS": {
       "currencyCode": "USD",
       "sku": "Instant Access Snapshots LRS",
-      "pricePerUnit": 0.0,
+      "pricePerUnit": 0.468,
       "unitOfMeasure": "1 TB",
       "productName": "Azure Premium SSD v2"
     },
@@ -11448,7 +10912,7 @@
     "Instant_Access_Snapshots_LRS": {
       "currencyCode": "USD",
       "sku": "Instant Access Snapshots LRS",
-      "pricePerUnit": 0.0,
+      "pricePerUnit": 0.000133,
       "unitOfMeasure": "1 GB/Hour",
       "productName": "Azure Premium SSD v2"
     },
@@ -11888,24 +11352,10 @@
       "unitOfMeasure": "1/Month",
       "productName": "Premium SSD Managed Disks"
     },
-    "P40_-_SAP_Special_LRS": {
-      "currencyCode": "USD",
-      "sku": "P40 - SAP Special LRS",
-      "pricePerUnit": 0.0,
-      "unitOfMeasure": "1/Month",
-      "productName": "Premium SSD Managed Disks"
-    },
     "P40_LRS": {
       "currencyCode": "USD",
       "sku": "P40 LRS",
       "pricePerUnit": 282.624,
-      "unitOfMeasure": "1/Month",
-      "productName": "Premium SSD Managed Disks"
-    },
-    "P50_-_SAP_Special_LRS": {
-      "currencyCode": "USD",
-      "sku": "P50 - SAP Special LRS",
-      "pricePerUnit": 0.0,
       "unitOfMeasure": "1/Month",
       "productName": "Premium SSD Managed Disks"
     },
@@ -12222,7 +11672,7 @@
     "Instant_Access_Snapshots_LRS": {
       "currencyCode": "USD",
       "sku": "Instant Access Snapshots LRS",
-      "pricePerUnit": 0.0,
+      "pricePerUnit": 0.52,
       "unitOfMeasure": "1 TB",
       "productName": "Azure Premium SSD v2"
     },
@@ -12735,7 +12185,7 @@
     "Instant_Access_Snapshots_LRS": {
       "currencyCode": "USD",
       "sku": "Instant Access Snapshots LRS",
-      "pricePerUnit": 0.0,
+      "pricePerUnit": 0.58,
       "unitOfMeasure": "1 TB",
       "productName": "Ultra Disks"
     },
@@ -13269,7 +12719,7 @@
     "Instant_Access_Snapshots_LRS": {
       "currencyCode": "USD",
       "sku": "Instant Access Snapshots LRS",
-      "pricePerUnit": 0.0,
+      "pricePerUnit": 0.000171,
       "unitOfMeasure": "1 GB/Hour",
       "productName": "Azure Premium SSD v2"
     },
@@ -13684,7 +13134,7 @@
     "Instant_Access_Snapshots_LRS": {
       "currencyCode": "USD",
       "sku": "Instant Access Snapshots LRS",
-      "pricePerUnit": 0.0,
+      "pricePerUnit": 0.56,
       "unitOfMeasure": "1 TB",
       "productName": "Azure Premium SSD v2"
     },
@@ -13973,7 +13423,7 @@
     "Instant_Access_Snapshots_LRS": {
       "currencyCode": "USD",
       "sku": "Instant Access Snapshots LRS",
-      "pricePerUnit": 0.0,
+      "pricePerUnit": 0.56,
       "unitOfMeasure": "1 TB",
       "productName": "Ultra Disks"
     },
@@ -14388,7 +13838,7 @@
     "Instant_Access_Snapshots_LRS": {
       "currencyCode": "USD",
       "sku": "Instant Access Snapshots LRS",
-      "pricePerUnit": 0.0,
+      "pricePerUnit": 0.54,
       "unitOfMeasure": "1 TB",
       "productName": "Azure Premium SSD v2"
     },
@@ -14817,7 +14267,7 @@
     "Instant_Access_Snapshots_LRS": {
       "currencyCode": "USD",
       "sku": "Instant Access Snapshots LRS",
-      "pricePerUnit": 0.0,
+      "pricePerUnit": 0.000189,
       "unitOfMeasure": "1 GB/Hour",
       "productName": "Ultra Disks"
     },
@@ -15232,7 +14682,7 @@
     "Instant_Access_Snapshots_LRS": {
       "currencyCode": "USD",
       "sku": "Instant Access Snapshots LRS",
-      "pricePerUnit": 0.0,
+      "pricePerUnit": 0.000192,
       "unitOfMeasure": "1 GB/Hour",
       "productName": "Ultra Disks"
     },
@@ -15745,7 +15195,7 @@
     "Instant_Access_Snapshots_LRS": {
       "currencyCode": "USD",
       "sku": "Instant Access Snapshots LRS",
-      "pricePerUnit": 0.0,
+      "pricePerUnit": 0.00012,
       "unitOfMeasure": "1 GB/Hour",
       "productName": "Azure Premium SSD v2"
     },
@@ -16230,7 +15680,7 @@
     "Instant_Access_Snapshots_LRS": {
       "currencyCode": "USD",
       "sku": "Instant Access Snapshots LRS",
-      "pricePerUnit": 0.0,
+      "pricePerUnit": 0.609,
       "unitOfMeasure": "1 TB",
       "productName": "Ultra Disks"
     },
@@ -16645,7 +16095,7 @@
     "Instant_Access_Snapshots_LRS": {
       "currencyCode": "USD",
       "sku": "Instant Access Snapshots LRS",
-      "pricePerUnit": 0.0,
+      "pricePerUnit": 0.00011,
       "unitOfMeasure": "1 GB/Hour",
       "productName": "Azure Premium SSD v2"
     },
@@ -17060,7 +16510,7 @@
     "Instant_Access_Snapshots_LRS": {
       "currencyCode": "USD",
       "sku": "Instant Access Snapshots LRS",
-      "pricePerUnit": 0.0,
+      "pricePerUnit": 0.572,
       "unitOfMeasure": "1 TB",
       "productName": "Azure Premium SSD v2"
     },
@@ -17594,7 +17044,7 @@
     "Instant_Access_Snapshots_LRS": {
       "currencyCode": "USD",
       "sku": "Instant Access Snapshots LRS",
-      "pricePerUnit": 0.0,
+      "pricePerUnit": 0.572,
       "unitOfMeasure": "1 TB",
       "productName": "Azure Premium SSD v2"
     },
@@ -18002,7 +17452,7 @@
     "Instant_Access_Snapshots_LRS": {
       "currencyCode": "USD",
       "sku": "Instant Access Snapshots LRS",
-      "pricePerUnit": 0.0,
+      "pricePerUnit": 0.744,
       "unitOfMeasure": "1 TB",
       "productName": "Ultra Disks"
     },
@@ -18615,7 +18065,7 @@
     "Instant_Access_Snapshots_LRS": {
       "currencyCode": "USD",
       "sku": "Instant Access Snapshots LRS",
-      "pricePerUnit": 0.0,
+      "pricePerUnit": 0.000213,
       "unitOfMeasure": "1 GB/Hour",
       "productName": "Ultra Disks"
     },
@@ -19149,7 +18599,7 @@
     "Instant_Access_Snapshots_LRS": {
       "currencyCode": "USD",
       "sku": "Instant Access Snapshots LRS",
-      "pricePerUnit": 0.0,
+      "pricePerUnit": 0.000157,
       "unitOfMeasure": "1 GB/Hour",
       "productName": "Azure Premium SSD v2"
     },
@@ -19662,7 +19112,7 @@
     "Instant_Access_Snapshots_LRS": {
       "currencyCode": "USD",
       "sku": "Instant Access Snapshots LRS",
-      "pricePerUnit": 0.0,
+      "pricePerUnit": 0.000221,
       "unitOfMeasure": "1 GB/Hour",
       "productName": "Ultra Disks"
     },
@@ -20098,7 +19548,7 @@
     "Instant_Access_Snapshots_LRS": {
       "currencyCode": "USD",
       "sku": "Instant Access Snapshots LRS",
-      "pricePerUnit": 0.0,
+      "pricePerUnit": 0.0002,
       "unitOfMeasure": "1 GB/Hour",
       "productName": "Azure Premium SSD v2"
     },
@@ -20513,7 +19963,7 @@
     "Instant_Access_Snapshots_LRS": {
       "currencyCode": "USD",
       "sku": "Instant Access Snapshots LRS",
-      "pricePerUnit": 0.0,
+      "pricePerUnit": 0.48,
       "unitOfMeasure": "1 TB",
       "productName": "Azure Premium SSD v2"
     },
@@ -21047,7 +20497,7 @@
     "Instant_Access_Snapshots_LRS": {
       "currencyCode": "USD",
       "sku": "Instant Access Snapshots LRS",
-      "pricePerUnit": 0.0,
+      "pricePerUnit": 0.000213,
       "unitOfMeasure": "1 GB/Hour",
       "productName": "Ultra Disks"
     },
@@ -21374,6 +20824,491 @@
       "productName": "Ultra Disks"
     }
   },
+  "southeastasia3": {
+    "Confidential_Compute_Encryption_LRS": {
+      "currencyCode": "USD",
+      "sku": "Confidential Compute Encryption LRS",
+      "pricePerUnit": 0.00013,
+      "unitOfMeasure": "1 GiB/Hour",
+      "productName": "Azure Premium SSD v2"
+    },
+    "E1_LRS": {
+      "currencyCode": "USD",
+      "sku": "E1 LRS",
+      "pricePerUnit": 0.3,
+      "unitOfMeasure": "1/Month",
+      "productName": "Standard SSD Managed Disks"
+    },
+    "E1_ZRS": {
+      "currencyCode": "USD",
+      "sku": "E1 ZRS",
+      "pricePerUnit": 0.45,
+      "unitOfMeasure": "1/Month",
+      "productName": "Standard SSD Managed Disks"
+    },
+    "E2_LRS": {
+      "currencyCode": "USD",
+      "sku": "E2 LRS",
+      "pricePerUnit": 0.6,
+      "unitOfMeasure": "1/Month",
+      "productName": "Standard SSD Managed Disks"
+    },
+    "E2_ZRS": {
+      "currencyCode": "USD",
+      "sku": "E2 ZRS",
+      "pricePerUnit": 0.9,
+      "unitOfMeasure": "1/Month",
+      "productName": "Standard SSD Managed Disks"
+    },
+    "E3_LRS": {
+      "currencyCode": "USD",
+      "sku": "E3 LRS",
+      "pricePerUnit": 1.2,
+      "unitOfMeasure": "1/Month",
+      "productName": "Standard SSD Managed Disks"
+    },
+    "E3_ZRS": {
+      "currencyCode": "USD",
+      "sku": "E3 ZRS",
+      "pricePerUnit": 1.8,
+      "unitOfMeasure": "1/Month",
+      "productName": "Standard SSD Managed Disks"
+    },
+    "E4_LRS": {
+      "currencyCode": "USD",
+      "sku": "E4 LRS",
+      "pricePerUnit": 2.4,
+      "unitOfMeasure": "1/Month",
+      "productName": "Standard SSD Managed Disks"
+    },
+    "E4_ZRS": {
+      "currencyCode": "USD",
+      "sku": "E4 ZRS",
+      "pricePerUnit": 3.6,
+      "unitOfMeasure": "1/Month",
+      "productName": "Standard SSD Managed Disks"
+    },
+    "E6_LRS": {
+      "currencyCode": "USD",
+      "sku": "E6 LRS",
+      "pricePerUnit": 4.8,
+      "unitOfMeasure": "1/Month",
+      "productName": "Standard SSD Managed Disks"
+    },
+    "E6_ZRS": {
+      "currencyCode": "USD",
+      "sku": "E6 ZRS",
+      "pricePerUnit": 7.2,
+      "unitOfMeasure": "1/Month",
+      "productName": "Standard SSD Managed Disks"
+    },
+    "E10_LRS": {
+      "currencyCode": "USD",
+      "sku": "E10 LRS",
+      "pricePerUnit": 9.6,
+      "unitOfMeasure": "1/Month",
+      "productName": "Standard SSD Managed Disks"
+    },
+    "E10_ZRS": {
+      "currencyCode": "USD",
+      "sku": "E10 ZRS",
+      "pricePerUnit": 14.4,
+      "unitOfMeasure": "1/Month",
+      "productName": "Standard SSD Managed Disks"
+    },
+    "E15_LRS": {
+      "currencyCode": "USD",
+      "sku": "E15 LRS",
+      "pricePerUnit": 19.2,
+      "unitOfMeasure": "1/Month",
+      "productName": "Standard SSD Managed Disks"
+    },
+    "E15_ZRS": {
+      "currencyCode": "USD",
+      "sku": "E15 ZRS",
+      "pricePerUnit": 28.8,
+      "unitOfMeasure": "1/Month",
+      "productName": "Standard SSD Managed Disks"
+    },
+    "E20_LRS": {
+      "currencyCode": "USD",
+      "sku": "E20 LRS",
+      "pricePerUnit": 38.4,
+      "unitOfMeasure": "1/Month",
+      "productName": "Standard SSD Managed Disks"
+    },
+    "E20_ZRS": {
+      "currencyCode": "USD",
+      "sku": "E20 ZRS",
+      "pricePerUnit": 57.6,
+      "unitOfMeasure": "1/Month",
+      "productName": "Standard SSD Managed Disks"
+    },
+    "E30_LRS": {
+      "currencyCode": "USD",
+      "sku": "E30 LRS",
+      "pricePerUnit": 76.8,
+      "unitOfMeasure": "1/Month",
+      "productName": "Standard SSD Managed Disks"
+    },
+    "E30_ZRS": {
+      "currencyCode": "USD",
+      "sku": "E30 ZRS",
+      "pricePerUnit": 115.2,
+      "unitOfMeasure": "1/Month",
+      "productName": "Standard SSD Managed Disks"
+    },
+    "E40_LRS": {
+      "currencyCode": "USD",
+      "sku": "E40 LRS",
+      "pricePerUnit": 153.6,
+      "unitOfMeasure": "1/Month",
+      "productName": "Standard SSD Managed Disks"
+    },
+    "E40_ZRS": {
+      "currencyCode": "USD",
+      "sku": "E40 ZRS",
+      "pricePerUnit": 230.4,
+      "unitOfMeasure": "1/Month",
+      "productName": "Standard SSD Managed Disks"
+    },
+    "E50_LRS": {
+      "currencyCode": "USD",
+      "sku": "E50 LRS",
+      "pricePerUnit": 307.2,
+      "unitOfMeasure": "1/Month",
+      "productName": "Standard SSD Managed Disks"
+    },
+    "E50_ZRS": {
+      "currencyCode": "USD",
+      "sku": "E50 ZRS",
+      "pricePerUnit": 460.8,
+      "unitOfMeasure": "1/Month",
+      "productName": "Standard SSD Managed Disks"
+    },
+    "E60_LRS": {
+      "currencyCode": "USD",
+      "sku": "E60 LRS",
+      "pricePerUnit": 614.4,
+      "unitOfMeasure": "1/Month",
+      "productName": "Standard SSD Managed Disks"
+    },
+    "E60_ZRS": {
+      "currencyCode": "USD",
+      "sku": "E60 ZRS",
+      "pricePerUnit": 921.6,
+      "unitOfMeasure": "1/Month",
+      "productName": "Standard SSD Managed Disks"
+    },
+    "E70_LRS": {
+      "currencyCode": "USD",
+      "sku": "E70 LRS",
+      "pricePerUnit": 1228.8,
+      "unitOfMeasure": "1/Month",
+      "productName": "Standard SSD Managed Disks"
+    },
+    "E70_ZRS": {
+      "currencyCode": "USD",
+      "sku": "E70 ZRS",
+      "pricePerUnit": 1843.2,
+      "unitOfMeasure": "1/Month",
+      "productName": "Standard SSD Managed Disks"
+    },
+    "E80_LRS": {
+      "currencyCode": "USD",
+      "sku": "E80 LRS",
+      "pricePerUnit": 2457.6,
+      "unitOfMeasure": "1/Month",
+      "productName": "Standard SSD Managed Disks"
+    },
+    "E80_ZRS": {
+      "currencyCode": "USD",
+      "sku": "E80 ZRS",
+      "pricePerUnit": 3686.4,
+      "unitOfMeasure": "1/Month",
+      "productName": "Standard SSD Managed Disks"
+    },
+    "Instant_Access_Snapshots_LRS": {
+      "currencyCode": "USD",
+      "sku": "Instant Access Snapshots LRS",
+      "pricePerUnit": 0.468,
+      "unitOfMeasure": "1 TB",
+      "productName": "Azure Premium SSD v2"
+    },
+    "P1_LRS": {
+      "currencyCode": "USD",
+      "sku": "P1 LRS",
+      "pricePerUnit": 0.78,
+      "unitOfMeasure": "1/Month",
+      "productName": "Premium SSD Managed Disks"
+    },
+    "P1_ZRS": {
+      "currencyCode": "USD",
+      "sku": "P1 ZRS",
+      "pricePerUnit": 1.053,
+      "unitOfMeasure": "1/Month",
+      "productName": "Premium SSD Managed Disks"
+    },
+    "P2_LRS": {
+      "currencyCode": "USD",
+      "sku": "P2 LRS",
+      "pricePerUnit": 1.404,
+      "unitOfMeasure": "1/Month",
+      "productName": "Premium SSD Managed Disks"
+    },
+    "P2_ZRS": {
+      "currencyCode": "USD",
+      "sku": "P2 ZRS",
+      "pricePerUnit": 2.106,
+      "unitOfMeasure": "1/Month",
+      "productName": "Premium SSD Managed Disks"
+    },
+    "P3_LRS": {
+      "currencyCode": "USD",
+      "sku": "P3 LRS",
+      "pricePerUnit": 2.808,
+      "unitOfMeasure": "1/Month",
+      "productName": "Premium SSD Managed Disks"
+    },
+    "P3_ZRS": {
+      "currencyCode": "USD",
+      "sku": "P3 ZRS",
+      "pricePerUnit": 4.212,
+      "unitOfMeasure": "1/Month",
+      "productName": "Premium SSD Managed Disks"
+    },
+    "P4_LRS": {
+      "currencyCode": "USD",
+      "sku": "P4 LRS",
+      "pricePerUnit": 5.2795,
+      "unitOfMeasure": "1/Month",
+      "productName": "Premium SSD Managed Disks"
+    },
+    "P4_ZRS": {
+      "currencyCode": "USD",
+      "sku": "P4 ZRS",
+      "pricePerUnit": 7.91925,
+      "unitOfMeasure": "1/Month",
+      "productName": "Premium SSD Managed Disks"
+    },
+    "P6_LRS": {
+      "currencyCode": "USD",
+      "sku": "P6 LRS",
+      "pricePerUnit": 10.207,
+      "unitOfMeasure": "1/Month",
+      "productName": "Premium SSD Managed Disks"
+    },
+    "P6_ZRS": {
+      "currencyCode": "USD",
+      "sku": "P6 ZRS",
+      "pricePerUnit": 15.3105,
+      "unitOfMeasure": "1/Month",
+      "productName": "Premium SSD Managed Disks"
+    },
+    "P10_LRS": {
+      "currencyCode": "USD",
+      "sku": "P10 LRS",
+      "pricePerUnit": 19.71,
+      "unitOfMeasure": "1/Month",
+      "productName": "Premium SSD Managed Disks"
+    },
+    "P10_ZRS": {
+      "currencyCode": "USD",
+      "sku": "P10 ZRS",
+      "pricePerUnit": 29.565,
+      "unitOfMeasure": "1/Month",
+      "productName": "Premium SSD Managed Disks"
+    },
+    "P15_LRS": {
+      "currencyCode": "USD",
+      "sku": "P15 LRS",
+      "pricePerUnit": 38.012142,
+      "unitOfMeasure": "1/Month",
+      "productName": "Premium SSD Managed Disks"
+    },
+    "P15_ZRS": {
+      "currencyCode": "USD",
+      "sku": "P15 ZRS",
+      "pricePerUnit": 57.018213,
+      "unitOfMeasure": "1/Month",
+      "productName": "Premium SSD Managed Disks"
+    },
+    "P20_LRS": {
+      "currencyCode": "USD",
+      "sku": "P20 LRS",
+      "pricePerUnit": 73.22,
+      "unitOfMeasure": "1/Month",
+      "productName": "Premium SSD Managed Disks"
+    },
+    "P20_ZRS": {
+      "currencyCode": "USD",
+      "sku": "P20 ZRS",
+      "pricePerUnit": 109.83,
+      "unitOfMeasure": "1/Month",
+      "productName": "Premium SSD Managed Disks"
+    },
+    "P30_LRS": {
+      "currencyCode": "USD",
+      "sku": "P30 LRS",
+      "pricePerUnit": 135.17,
+      "unitOfMeasure": "1/Month",
+      "productName": "Premium SSD Managed Disks"
+    },
+    "P30_ZRS": {
+      "currencyCode": "USD",
+      "sku": "P30 ZRS",
+      "pricePerUnit": 202.755,
+      "unitOfMeasure": "1/Month",
+      "productName": "Premium SSD Managed Disks"
+    },
+    "P40_LRS": {
+      "currencyCode": "USD",
+      "sku": "P40 LRS",
+      "pricePerUnit": 259.0457,
+      "unitOfMeasure": "1/Month",
+      "productName": "Premium SSD Managed Disks"
+    },
+    "P40_ZRS": {
+      "currencyCode": "USD",
+      "sku": "P40 ZRS",
+      "pricePerUnit": 388.56855,
+      "unitOfMeasure": "1/Month",
+      "productName": "Premium SSD Managed Disks"
+    },
+    "P50_LRS": {
+      "currencyCode": "USD",
+      "sku": "P50 LRS",
+      "pricePerUnit": 495.5657,
+      "unitOfMeasure": "1/Month",
+      "productName": "Premium SSD Managed Disks"
+    },
+    "P50_ZRS": {
+      "currencyCode": "USD",
+      "sku": "P50 ZRS",
+      "pricePerUnit": 743.34855,
+      "unitOfMeasure": "1/Month",
+      "productName": "Premium SSD Managed Disks"
+    },
+    "P60_LRS": {
+      "currencyCode": "USD",
+      "sku": "P60 LRS",
+      "pricePerUnit": 946.08,
+      "unitOfMeasure": "1/Month",
+      "productName": "Premium SSD Managed Disks"
+    },
+    "P60_ZRS": {
+      "currencyCode": "USD",
+      "sku": "P60 ZRS",
+      "pricePerUnit": 1419.12,
+      "unitOfMeasure": "1/Month",
+      "productName": "Premium SSD Managed Disks"
+    },
+    "P70_LRS": {
+      "currencyCode": "USD",
+      "sku": "P70 LRS",
+      "pricePerUnit": 1802.06,
+      "unitOfMeasure": "1/Month",
+      "productName": "Premium SSD Managed Disks"
+    },
+    "P70_ZRS": {
+      "currencyCode": "USD",
+      "sku": "P70 ZRS",
+      "pricePerUnit": 2703.09,
+      "unitOfMeasure": "1/Month",
+      "productName": "Premium SSD Managed Disks"
+    },
+    "P80_LRS": {
+      "currencyCode": "USD",
+      "sku": "P80 LRS",
+      "pricePerUnit": 3604.11,
+      "unitOfMeasure": "1/Month",
+      "productName": "Premium SSD Managed Disks"
+    },
+    "P80_ZRS": {
+      "currencyCode": "USD",
+      "sku": "P80 ZRS",
+      "pricePerUnit": 5406.165,
+      "unitOfMeasure": "1/Month",
+      "productName": "Premium SSD Managed Disks"
+    },
+    "S4_LRS": {
+      "currencyCode": "USD",
+      "sku": "S4 LRS",
+      "pricePerUnit": 1.536,
+      "unitOfMeasure": "1/Month",
+      "productName": "Standard HDD Managed Disks"
+    },
+    "S6_LRS": {
+      "currencyCode": "USD",
+      "sku": "S6 LRS",
+      "pricePerUnit": 3.008,
+      "unitOfMeasure": "1/Month",
+      "productName": "Standard HDD Managed Disks"
+    },
+    "S10_LRS": {
+      "currencyCode": "USD",
+      "sku": "S10 LRS",
+      "pricePerUnit": 5.888,
+      "unitOfMeasure": "1/Month",
+      "productName": "Standard HDD Managed Disks"
+    },
+    "S15_LRS": {
+      "currencyCode": "USD",
+      "sku": "S15 LRS",
+      "pricePerUnit": 11.328,
+      "unitOfMeasure": "1/Month",
+      "productName": "Standard HDD Managed Disks"
+    },
+    "S20_LRS": {
+      "currencyCode": "USD",
+      "sku": "S20 LRS",
+      "pricePerUnit": 21.76,
+      "unitOfMeasure": "1/Month",
+      "productName": "Standard HDD Managed Disks"
+    },
+    "S30_LRS": {
+      "currencyCode": "USD",
+      "sku": "S30 LRS",
+      "pricePerUnit": 40.96,
+      "unitOfMeasure": "1/Month",
+      "productName": "Standard HDD Managed Disks"
+    },
+    "S40_LRS": {
+      "currencyCode": "USD",
+      "sku": "S40 LRS",
+      "pricePerUnit": 73.728,
+      "unitOfMeasure": "1/Month",
+      "productName": "Standard HDD Managed Disks"
+    },
+    "S50_LRS": {
+      "currencyCode": "USD",
+      "sku": "S50 LRS",
+      "pricePerUnit": 147.456,
+      "unitOfMeasure": "1/Month",
+      "productName": "Standard HDD Managed Disks"
+    },
+    "S60_LRS": {
+      "currencyCode": "USD",
+      "sku": "S60 LRS",
+      "pricePerUnit": 294.912,
+      "unitOfMeasure": "1/Month",
+      "productName": "Standard HDD Managed Disks"
+    },
+    "S70_LRS": {
+      "currencyCode": "USD",
+      "sku": "S70 LRS",
+      "pricePerUnit": 589.824,
+      "unitOfMeasure": "1/Month",
+      "productName": "Standard HDD Managed Disks"
+    },
+    "S80_LRS": {
+      "currencyCode": "USD",
+      "sku": "S80 LRS",
+      "pricePerUnit": 1179.648,
+      "unitOfMeasure": "1/Month",
+      "productName": "Standard HDD Managed Disks"
+    }
+  },
   "southindia": {
     "Confidential_Compute_Encryption_LRS": {
       "currencyCode": "USD",
@@ -21483,7 +21418,7 @@
     "Instant_Access_Snapshots_LRS": {
       "currencyCode": "USD",
       "sku": "Instant Access Snapshots LRS",
-      "pricePerUnit": 0.0,
+      "pricePerUnit": 0.000166,
       "unitOfMeasure": "1 GB/Hour",
       "productName": "Azure Premium SSD v2"
     },
@@ -21898,7 +21833,7 @@
     "Instant_Access_Snapshots_LRS": {
       "currencyCode": "USD",
       "sku": "Instant Access Snapshots LRS",
-      "pricePerUnit": 0.0,
+      "pricePerUnit": 0.000213,
       "unitOfMeasure": "1 GB/Hour",
       "productName": "Ultra Disks"
     },
@@ -22411,7 +22346,7 @@
     "Instant_Access_Snapshots_LRS": {
       "currencyCode": "USD",
       "sku": "Instant Access Snapshots LRS",
-      "pricePerUnit": 0.0,
+      "pricePerUnit": 0.52,
       "unitOfMeasure": "1 TB",
       "productName": "Azure Premium SSD v2"
     },
@@ -23220,7 +23155,7 @@
     "Instant_Access_Snapshots_LRS": {
       "currencyCode": "USD",
       "sku": "Instant Access Snapshots LRS",
-      "pricePerUnit": 0.0,
+      "pricePerUnit": 0.572,
       "unitOfMeasure": "1 TB",
       "productName": "Azure Premium SSD v2"
     },
@@ -23656,7 +23591,7 @@
     "Instant_Access_Snapshots_LRS": {
       "currencyCode": "USD",
       "sku": "Instant Access Snapshots LRS",
-      "pricePerUnit": 0.0,
+      "pricePerUnit": 0.744,
       "unitOfMeasure": "1 TB",
       "productName": "Azure Premium SSD v2"
     },
@@ -23973,7 +23908,7 @@
     "Instant_Access_Snapshots_LRS": {
       "currencyCode": "USD",
       "sku": "Instant Access Snapshots LRS",
-      "pricePerUnit": 0.0,
+      "pricePerUnit": 0.000305,
       "unitOfMeasure": "1 GB/Hour",
       "productName": "Ultra Disks"
     },
@@ -24388,7 +24323,7 @@
     "Instant_Access_Snapshots_LRS": {
       "currencyCode": "USD",
       "sku": "Instant Access Snapshots LRS",
-      "pricePerUnit": 0.0,
+      "pricePerUnit": 0.000133,
       "unitOfMeasure": "1 GB/Hour",
       "productName": "Azure Premium SSD v2"
     },
@@ -24922,7 +24857,7 @@
     "Instant_Access_Snapshots_LRS": {
       "currencyCode": "USD",
       "sku": "Instant Access Snapshots LRS",
-      "pricePerUnit": 0.0,
+      "pricePerUnit": 0.5,
       "unitOfMeasure": "1 TB",
       "productName": "Ultra Disks"
     },
@@ -25358,7 +25293,7 @@
     "Instant_Access_Snapshots_LRS": {
       "currencyCode": "USD",
       "sku": "Instant Access Snapshots LRS",
-      "pricePerUnit": 0.0,
+      "pricePerUnit": 0.524,
       "unitOfMeasure": "1 TB",
       "productName": "Azure Premium SSD v2"
     },
@@ -25773,7 +25708,7 @@
     "Instant_Access_Snapshots_LRS": {
       "currencyCode": "USD",
       "sku": "Instant Access Snapshots LRS",
-      "pricePerUnit": 0.0,
+      "pricePerUnit": 0.5,
       "unitOfMeasure": "1 TB",
       "productName": "Azure Premium SSD v2"
     },
@@ -26188,7 +26123,7 @@
     "Instant_Access_Snapshots_LRS": {
       "currencyCode": "USD",
       "sku": "Instant Access Snapshots LRS",
-      "pricePerUnit": 0.0,
+      "pricePerUnit": 0.5,
       "unitOfMeasure": "1 TB",
       "productName": "Ultra Disks"
     },
@@ -26505,7 +26440,7 @@
     "Instant_Access_Snapshots_LRS": {
       "currencyCode": "USD",
       "sku": "Instant Access Snapshots LRS",
-      "pricePerUnit": 0.0,
+      "pricePerUnit": 0.5,
       "unitOfMeasure": "1 TB",
       "productName": "Azure Premium SSD v2"
     },
@@ -26920,7 +26855,7 @@
     "Instant_Access_Snapshots_LRS": {
       "currencyCode": "USD",
       "sku": "Instant Access Snapshots LRS",
-      "pricePerUnit": 0.0,
+      "pricePerUnit": 0.48,
       "unitOfMeasure": "1 TB",
       "productName": "Azure Premium SSD v2"
     },
@@ -27307,7 +27242,7 @@
     "Instant_Access_Snapshots_LRS": {
       "currencyCode": "USD",
       "sku": "Instant Access Snapshots LRS",
-      "pricePerUnit": 0.0,
+      "pricePerUnit": 0.000213,
       "unitOfMeasure": "1 GB/Hour",
       "productName": "Ultra Disks"
     },
@@ -28018,7 +27953,7 @@
     "Instant_Access_Snapshots_LRS": {
       "currencyCode": "USD",
       "sku": "Instant Access Snapshots LRS",
-      "pricePerUnit": 0.0,
+      "pricePerUnit": 0.000132,
       "unitOfMeasure": "1 GB/Hour",
       "productName": "Azure Premium SSD v2"
     },
@@ -28433,7 +28368,7 @@
     "Instant_Access_Snapshots_LRS": {
       "currencyCode": "USD",
       "sku": "Instant Access Snapshots LRS",
-      "pricePerUnit": 0.0,
+      "pricePerUnit": 0.4,
       "unitOfMeasure": "1 TB",
       "productName": "Azure Premium SSD v2"
     },
@@ -28967,7 +28902,7 @@
     "Instant_Access_Snapshots_LRS": {
       "currencyCode": "USD",
       "sku": "Instant Access Snapshots LRS",
-      "pricePerUnit": 0.0,
+      "pricePerUnit": 0.00011,
       "unitOfMeasure": "1 GB/Hour",
       "productName": "Azure Premium SSD v2"
     },
